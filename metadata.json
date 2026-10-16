@@ -1,0 +1,6 @@
+{
+  "name": "PetroTrack - Sistem Monitoring Stok Keluar Masuk BBM Solar",
+  "description": "Dashboard manajemen kontrol stok keluar-masuk BBM Solar multi-role (Supervisor, Admin, Operator) dengan pelacakan tangki, peminjaman kontraktor, slideshow konsumsi unit, analisis harga vendor, dan peringatan operasional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
